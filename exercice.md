@@ -7,5 +7,5 @@
 - [ ] Cédric
 - [ ] Bastien
 - [ ] Sowmya
-
-PS : Chaque personnes qui coche rapporte un petit-déjeuner :)
+- [ X ] Josué
+  PS : Chaque personnes qui coche rapporte un petit-déjeuner :)
