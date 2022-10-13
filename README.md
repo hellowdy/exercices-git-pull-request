@@ -30,4 +30,7 @@ La branche existe sur le dépôt local mais pas sur votre dépôt distant github
 ```sh
 git push --set-upstream origin #nom de la branche
 ```
+Allez vérifier sur votre github pour confirmer et m'envoyer votre travail.
+
+___ATTENTION La collaboration est de mise, si l'instruction précedente ne fonctionne pas. que faire ?!___   
 
